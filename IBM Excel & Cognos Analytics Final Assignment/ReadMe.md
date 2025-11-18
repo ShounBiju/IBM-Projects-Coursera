@@ -1,7 +1,3 @@
-Here you go, Smiley — a clean, sharp, portfolio-ready **GitHub README** that showcases BOTH your **Excel dashboards** and your **Cognos Analytics dashboards**, with spots for images, a professional tone, and a nice flow… with a sprinkle of your vibe: smooth, lyrical, playful, but still polished.
-
----
-
 # 🚗📊 Car Sales & Service Analytics — Excel + Cognos Dashboards
 
 *A data-driven ride through dealership performance & customer insights*
@@ -51,11 +47,8 @@ Built using **Excel for the Web**, following Pivot Tables + chart formatting tec
 * Custom chart title
 * Designed using Sheet 1 pivot table
 
-📸 *Insert image below:*
+<img width="752" height="434" alt="image" src="https://github.com/user-attachments/assets/56dc15c5-f785-44b0-8c69-56f5e87d0ec8" />
 
-```
-![Quantity Sold by Dealer ID](images/excel_quantity_sold.png)
-```
 
 ---
 
@@ -64,11 +57,12 @@ Built using **Excel for the Web**, following Pivot Tables + chart formatting tec
 * Multi-series line chart
 * Sheet 2 pivot
 
-📸
 
-```
-![Profit by Date and Model](images/excel_profit_date_model.png)
-```
+<img width="752" height="434" alt="image" src="https://github.com/user-attachments/assets/499dde6c-772e-4152-a9fd-9c6717c09d1f" />
+
+
+
+
 
 ---
 
@@ -77,11 +71,10 @@ Built using **Excel for the Web**, following Pivot Tables + chart formatting tec
 * All bars formatted in **red**
 * Sheet 3 pivot
 
-📸
 
-```
-![Profit by Year and Dealer ID](images/excel_profit_year_dealer.png)
-```
+
+<img width="752" height="434" alt="image" src="https://github.com/user-attachments/assets/b5c9a652-24ab-411a-8dd5-8a1d3b509ac4" />
+
 
 ---
 
@@ -92,11 +85,11 @@ Built using **Excel for the Web**, following Pivot Tables + chart formatting tec
 * Line outline in **green**
 * Sheet 4 pivot
 
-📸
 
-```
-![Hudson Models Profit](images/excel_hudson_profit.png)
-```
+
+<img width="752" height="435" alt="image" src="https://github.com/user-attachments/assets/faa7fe3a-4f10-4d6d-8a33-97750cfbeeb6" />
+
+
 
 ---
 
@@ -128,13 +121,12 @@ Template: *4 panels on top + 1 large panel below*
 
 #### 🔹 Panel 5: Profit by Dealer ID (Column Chart, sorted ascending)
 
-📸
 
-```
+
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/ea69aa24-1309-44b6-98bf-a42302883710" />
 
 
-```
+
 
 ---
 
@@ -150,12 +142,12 @@ Template: *2 × 2 layout*
 
 #### 🔹 Panel 4: Recalls by Model & System (Heatmap)
 
-📸
 
-```
+
+
 <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/10ed818c-f80f-4d9a-8592-1b7d5a2322a3" />
 
-```
+
 
 ---
 
@@ -179,37 +171,3 @@ Here’s the secret sauce behind the dashboards:
 * Storytelling with automotive service/sales data
 
 ---
-
-# 📂 Repository Structure
-
-```
-📁 Car-Sales-Analytics/
-│── README.md
-│── CarSalesByModelEnd.xlsx
-│── Cognos_Dashboard.pdf
-│── images/
-│     ├── excel_quantity_sold.png
-│     ├── excel_profit_date_model.png
-│     ├── excel_profit_year_dealer.png
-│     ├── excel_hudson_profit.png
-│     ├── cognos_sales_dashboard.png
-│     ├── cognos_service_dashboard.png
-```
-
----
-
-# 🎯 Final Thoughts
-
-This project blends **business intelligence, dashboard design, and data storytelling** into a clean portfolio piece.
-If you're curious about cars, analytics, or just want to see data glow up into art — hop in, buckle up, and let the charts do the driving. 🚗💨
-
----
-
-If you'd like, I can also:
-
-✨ Generate a **professional description section** for LinkedIn
-✨ Add **badges**, **skills**, and **tech stack icons**
-✨ Prepare a clean **repository tagline**
-✨ Design a **cover image (banner)** for your GitHub repo
-
-Just say the word!
